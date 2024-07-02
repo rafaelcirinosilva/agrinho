@@ -49,8 +49,8 @@ body {
 }
 .container__imagem {
     margin: 1em 0 2em 0;
-    width: 50%;
-    height: 50%;
+    width: 100px;
+    height: 100px;
 }
 .container__caixa {
     margin: 0 6em;
