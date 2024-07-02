@@ -2,7 +2,7 @@
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
-    --cor-de-fundo: #28d818;
+    --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
 }
 
@@ -49,7 +49,7 @@ body {
 }
 .container__imagem {
     margin: 1em 0 2em 0;
-    width: 80%;
+    width: 0%;
     height:90%;
 }
 .container__caixa {
